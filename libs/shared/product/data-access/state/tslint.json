@@ -1,5 +1,5 @@
 {
-  "extends": "../../../../tslint.json",
+  "extends": "../../../../../tslint.json",
   "rules": {
     "directive-selector": [true, "attribute", "nxExample", "camelCase"],
     "component-selector": [true, "element", "nx-example", "kebab-case"]
