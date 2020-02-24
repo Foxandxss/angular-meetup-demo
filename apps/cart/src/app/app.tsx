@@ -1,15 +1,15 @@
 import React from 'react';
 import { Route } from 'react-router-dom';
 
-import '@nx-example/shared/header';
+import '@nx-example/shared/ui-header';
 
-import { CartCartPage } from '@nx-example/cart/cart-page';
+import { CartPage } from '@nx-example/cart/feature-cart-page';
 
 export const App = () => {
   return (
     <>
       <nx-example-header />
-      <Route path="/cart" exact component={CartCartPage} />
+      <Route path="/cart" exact component={CartPage} />
     </>
   );
 };

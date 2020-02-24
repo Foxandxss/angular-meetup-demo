@@ -1,4 +1,4 @@
-import { getHeader } from '@nx-example/shared/e2e-utils';
+import { getHeader } from '@nx-example/shared/util-e2e';
 
 import { getPage } from '../support/app.po';
 

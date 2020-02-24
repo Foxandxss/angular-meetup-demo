@@ -87,7 +87,7 @@
           },
           {
             "sourceTag": "type:e2e",
-            "onlyDependOnLibsWithTags": ["type:e2e-utils"]
+            "onlyDependOnLibsWithTags": ["type:util-e2e"]
           },
           {
             "sourceTag": "type:ui",

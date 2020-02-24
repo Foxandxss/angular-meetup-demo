@@ -34,40 +34,40 @@
       "tags": ["scope:cart", "type:e2e"],
       "implicitDependencies": ["cart"]
     },
-    "shared-product-types": {
+    "shared-product-data-access-types": {
       "tags": ["type:types", "scope:shared"]
     },
-    "shared-product-data": {
+    "shared-product-data-access-mock-data": {
       "tags": ["type:data", "scope:shared"]
     },
     "shared-product-ui": {
       "tags": ["scope:shared", "type:ui"]
     },
-    "products-home-page": {
+    "products-feature-home-page": {
       "tags": ["scope:products", "type:feature"]
     },
-    "cart-cart-page": {
+    "feature-cart-page": {
       "tags": ["scope:cart", "type:feature"]
     },
-    "shared-e2e-utils": {
-      "tags": ["scope:shared", "type:e2e-utils"]
+    "shared-util-e2e": {
+      "tags": ["scope:shared", "type:util-e2e"]
     },
-    "shared-jsxify": {
+    "shared-util-jsxify": {
       "tags": ["scope:shared", "type:types"]
     },
-    "shared-cart-state": {
+    "shared-cart-data-access-state": {
       "tags": ["scope:shared", "type:state"]
     },
-    "shared-product-state": {
+    "shared-product-data-access-state": {
       "tags": ["scope:shared", "type:state"]
     },
     "shared-assets": {
       "tags": ["type:assets", "scope:shared"]
     },
-    "shared-header": {
+    "shared-ui-header": {
       "tags": ["scope:shared", "type:ui"]
     },
-    "products-product-detail-page": {
+    "products-feature-product-detail-page": {
       "tags": ["type:feature", "scope:products"]
     },
     "shared-styles": {
