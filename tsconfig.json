@@ -23,8 +23,8 @@
       "@nx-example/shared/product/data-access/mock-data": [
         "libs/shared/product/data-access/mock-data/src/index.ts"
       ],
-      "@nx-example/shared/product/data/testing": [
-        "libs/shared/product/data/src/testing.ts"
+      "@nx-example/shared/product/data-access/mock-data/testing": [
+        "libs/shared/product/data-access/mock-data/src/testing.ts"
       ],
       "@nx-example/shared/product/ui": ["libs/shared/product/ui/src/index.ts"],
       "@nx-example/products/feature-home-page": [
