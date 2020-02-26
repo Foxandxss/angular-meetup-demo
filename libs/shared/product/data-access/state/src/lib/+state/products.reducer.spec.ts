@@ -1,4 +1,4 @@
-import { mockProducts } from '@nx-example/shared/product/data/testing';
+import { mockProducts } from '@nx-example/shared/product/data-access/mock-data/testing';
 
 import { productsReducer, ProductsState } from './products.reducer';
 

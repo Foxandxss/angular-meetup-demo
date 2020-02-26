@@ -2,7 +2,7 @@ import {
   cartReducer,
   CartState,
   SetQuantity
-} from '@nx-example/shared/cart/state';
+} from '@nx-example/shared/cart/data-access-state';
 
 describe('Cart Reducer', () => {
   let cartState: CartState;
